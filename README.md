@@ -43,3 +43,6 @@ No client currently exists, as of this writing, for the oracle. The client allow
 place a bet
 - query the status of a bet or match
 
+## Libraries Used or Adapted
+- OpenZeppelin's Ownable contract https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/ownership
+- OpenZeppelin's SafeMath contract https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math
