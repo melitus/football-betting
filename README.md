@@ -33,3 +33,13 @@ Provides for the following main user stories:
 - query past (decided) match results
 - place a bet
 - check the status of a bet or match
+
+## How it Works: Client
+No client currently exists, as of this writing, for the oracle. The client allows users to:
+
+- see a list of bettable and decided matches
+- see a list of their own bets
+- query the total amount bet (by all users combined) on a particular match
+place a bet
+- query the status of a bet or match
+
